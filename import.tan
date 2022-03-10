@@ -2,3 +2,6 @@ import -> math.tan
 
 x :: math.cos(9);
 write(x);
+
+Result:
+-0.9111302618846769
