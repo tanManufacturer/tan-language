@@ -1,4 +1,4 @@
-import -> random.tan
+import -> math.tan
 
-x :: random.tan(9)
+x :: math.tan(9)
 write(x)
