@@ -1,4 +1,4 @@
 import -> math.tan
 
-x :: math.cos(9)
-write(x)
+x :: math.cos(9);
+write(x);
