@@ -1,0 +1,6 @@
+x = 8
+y = "TAN"
+Write(y + x)
+
+Result:
+TAN8
