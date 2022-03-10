@@ -1,6 +1,9 @@
 a :: 33
 b :: 200
 if b > a was:
-    write('b is greater than a')
+    write('b is greater than a');
 else:
-    write('no')
+    write('a is greater than b');
+
+Result:
+b is greater than a
