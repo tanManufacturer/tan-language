@@ -1,6 +1,6 @@
 x :: 8
 y :: "TAN"
-write(y + x)
+write(y + x);
 
 Result:
 TAN8
