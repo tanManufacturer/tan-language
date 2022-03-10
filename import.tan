@@ -1,0 +1,4 @@
+import -> random.tan
+
+x :: random.tan(9)
+write(x)
