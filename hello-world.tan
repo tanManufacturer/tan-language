@@ -1,3 +1,6 @@
-write('Hello World')
+write('Hello World');
+
+Result:
+Hello World
 
 #To print the command write use
