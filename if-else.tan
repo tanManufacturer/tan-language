@@ -1,8 +1,8 @@
 a :: 33
 b :: 200
-if b > a was:
+puts b > a was:
 ->  write('b is greater than a');
-else:
+extends:
 ->  write('a is greater than b');
 
 Result:
