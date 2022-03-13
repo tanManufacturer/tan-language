@@ -1,0 +1,11 @@
+procedure x in "tangent":
+  write(x);
+
+Result:
+t
+a
+n
+g
+e
+n
+t
